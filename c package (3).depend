@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1642482422 source:f:\shamyuktha\c paack 1st yr\conditional.c
+
+1642482414 source:f:\shamyuktha\c paack 1st yr\geometric mean.c
+
+1642482412 source:f:\shamyuktha\c paack 1st yr\harmonic mean.c
+
+1642482409 source:f:\shamyuktha\c paack 1st yr\intersection.c
+
+1642482405 source:f:\shamyuktha\c paack 1st yr\max.c
+
+1642482401 source:f:\shamyuktha\c paack 1st yr\mean.c
+	"ProStat.h"
+
+1642611273 f:\shamyuktha\c paack 1st yr\prostat.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1642604588 source:f:\shamyuktha\c paack 1st yr\means.c
+	"ProStat.h"
+
+1642482397 source:f:\shamyuktha\c paack 1st yr\median.c
+
+1642482395 source:f:\shamyuktha\c paack 1st yr\min.c
+
+1642482393 source:f:\shamyuktha\c paack 1st yr\mode.c
+
+1642482390 source:f:\shamyuktha\c paack 1st yr\mutuallyexclusive.c
+
+1642482387 source:f:\shamyuktha\c paack 1st yr\mutuallyexhaustive.c
+
+1642482385 source:f:\shamyuktha\c paack 1st yr\probability.c
+
+1642482376 source:f:\shamyuktha\c paack 1st yr\range.c
+
+1642482374 source:f:\shamyuktha\c paack 1st yr\rec.c
+
+1642482372 source:f:\shamyuktha\c paack 1st yr\sort.c
+
+1642482371 source:f:\shamyuktha\c paack 1st yr\sqc.c
+
+1642605720 source:f:\shamyuktha\c paack 1st yr\standard deviation.c
+	"ProStat.h"
+
+1642604628 source:f:\shamyuktha\c paack 1st yr\union.c
+
+1642606037 source:f:\shamyuktha\c paack 1st yr\variance.c
+	"ProStat.h"
+
+1642609719 source:f:\shamyuktha\c paack 1st yr\mainfun 88.c
+	"ProStat.h"
+
+1642482414 f:\shamyuktha\c paack 1st yr\geometric mean.c
+
+1642482412 f:\shamyuktha\c paack 1st yr\harmonic mean.c
+
+1642482409 f:\shamyuktha\c paack 1st yr\intersection.c
+
+1642482405 f:\shamyuktha\c paack 1st yr\max.c
+
+1642482401 f:\shamyuktha\c paack 1st yr\mean.c
+	"ProStat.h"
+
+1642604588 f:\shamyuktha\c paack 1st yr\means.c
+	"ProStat.h"
+
+1642482397 f:\shamyuktha\c paack 1st yr\median.c
+
+1642482395 f:\shamyuktha\c paack 1st yr\min.c
+
+1642482393 f:\shamyuktha\c paack 1st yr\mode.c
+
+1642482390 f:\shamyuktha\c paack 1st yr\mutuallyexclusive.c
+
+1642482387 f:\shamyuktha\c paack 1st yr\mutuallyexhaustive.c
+
+1642482385 f:\shamyuktha\c paack 1st yr\probability.c
+
+1642482376 f:\shamyuktha\c paack 1st yr\range.c
+
+1642482374 f:\shamyuktha\c paack 1st yr\rec.c
+
+1642482372 f:\shamyuktha\c paack 1st yr\sort.c
+
+1642482371 f:\shamyuktha\c paack 1st yr\sqc.c
+
+1642605720 f:\shamyuktha\c paack 1st yr\standard deviation.c
+	"ProStat.h"
+
+1642604628 f:\shamyuktha\c paack 1st yr\union.c
+
+1642605999 f:\shamyuktha\c paack 1st yr\variance.c
+	"ProStat.h"
+

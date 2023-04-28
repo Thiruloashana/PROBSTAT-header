@@ -1,0 +1,8 @@
+5
+5
+exactly 2
+atleast 4
+atmost 2
+exactly 3
+atleast 5
+0.5

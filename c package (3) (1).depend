@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1642780639 source:f:\shamyuktha\c paack 1st yr\mainfun 88 .c
+	"ProStat.h"
+
+1642858486 f:\shamyuktha\c paack 1st yr\prostat.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<graphics.h>
+	<conio.h>
+
+1642852759 source:f:\shamyuktha\c paack 1st yr\mainfun 88 .cpp
+	"ProStat.h"
+
+1642933677 source:c:\users\thiru\onedrive\desktop\c package final\mainfun 88 .cpp
+	"ProStat.h"
+
+1642933778 c:\users\thiru\onedrive\desktop\c package final\prostat.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<graphics.h>
+
+1642933677 source:c:\users\thiru\onedrive\documents\sem1\c\c package final\mainfun 88 .cpp
+	"ProStat.h"
+
+1642933778 c:\users\thiru\onedrive\documents\sem1\c\c package final\prostat.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<graphics.h>
+
